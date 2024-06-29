@@ -1,1 +1,1 @@
-[Pink Coin](HighShoreStudio.github.io/PinkCoin)
+[Pink Coin](https://HighShoreStudio.github.io/PinkCoin)
